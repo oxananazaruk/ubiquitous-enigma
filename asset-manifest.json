@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ubiquitous-enigma/static/css/main.7acaea2f.css",
+    "main.js": "/ubiquitous-enigma/static/js/main.07d3183d.js",
+    "index.html": "/ubiquitous-enigma/index.html",
+    "main.7acaea2f.css.map": "/ubiquitous-enigma/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/ubiquitous-enigma/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
