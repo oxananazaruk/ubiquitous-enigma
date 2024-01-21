@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ubiquitous-enigma/static/css/main.7acaea2f.css",
-    "main.js": "/ubiquitous-enigma/static/js/main.7e1c3683.js",
+    "main.css": "/ubiquitous-enigma/static/css/main.cd2e038f.css",
+    "main.js": "/ubiquitous-enigma/static/js/main.709b5178.js",
     "index.html": "/ubiquitous-enigma/index.html",
-    "main.7acaea2f.css.map": "/ubiquitous-enigma/static/css/main.7acaea2f.css.map",
-    "main.7e1c3683.js.map": "/ubiquitous-enigma/static/js/main.7e1c3683.js.map"
+    "main.cd2e038f.css.map": "/ubiquitous-enigma/static/css/main.cd2e038f.css.map",
+    "main.709b5178.js.map": "/ubiquitous-enigma/static/js/main.709b5178.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.7e1c3683.js"
+    "static/css/main.cd2e038f.css",
+    "static/js/main.709b5178.js"
   ]
 }
